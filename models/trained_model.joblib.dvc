@@ -1,5 +1,5 @@
 outs:
-- md5: 166c6534b8f3b87a1181a7f40732087f
-  size: 106948281
+- md5: 0fc4b9fe03d4b0f25e539a68fc109f2a
+  size: 206395161
   hash: md5
   path: trained_model.joblib
